@@ -29,7 +29,7 @@ devops tools:
 [click here](http://tech365.ng)
 
 <!-- image  -->
-![tech365 logo](https://tse3.mm.bing.net/th/id/OIP.VosCrT5C2LOWM4zy0W8oXwHaE6?r=0&rs=1&pid=ImgDetMain&o=7&rm=3)
+![tech365 logo](https://github.com/waleolajumoke/insurane/blob/main/classroom.jpeg?raw=true)
 
 <!-- code block  -->
 ```bash
